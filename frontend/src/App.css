@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+body{
+  font-family: 'Poppins', sans-serif;
+
+}
+
+.Chart-heading{
+  float: right;
+  position: relative;
+  top: 270px;
+  right: 150px;
+
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.chart{
+  position: relative;
+  top: 20px;
+
+}
