@@ -1,6 +1,6 @@
 const { default: mongoose } = require("mongoose")
 
-const URL = "mongodb+srv://admin:shejaladmin@cluster0.hufwee1.mongodb.net/PollingApp?retryWrites=true&w=majority";
+const URL = "mongodb+srv://username:password@cluster0.hufwee1.mongodb.net/PollingApp?retryWrites=true&w=majority";
 
 const connection =()=>{
     mongoose.connect(URL).then(()=>{
