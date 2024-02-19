@@ -1,2 +1,2 @@
 # PollingApp
-This is a simple polling application based on node js, mongoose for backend and react for frontend
+Designed a Polling Application with the backend implemented in Node.js and the frontend developed using React.
